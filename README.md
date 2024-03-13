@@ -358,7 +358,7 @@ The "My Profile" page includes:
     - Minimum length – 2 characters
     - Maximum length – 35 characters
 
-- The "Nickname" field (required)
+- The "Nickname" field
 
     - Lowercase Latin letters, digits and underscores are allowed
     - At least one lowercase Latin letter is required
