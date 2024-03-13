@@ -409,4 +409,3 @@ If the changes are saved successfully, the "Changes are saved." message appears 
 - If the field contains less than 5 characters – the field is highlighted in red, the "Minimum length – 5 characters" message is shown below the field
 - If the field contains more than 35 characters – the field is highlighted in red, the "Maximum length – 35 characters" message is shown below the field
 - If the entered nickname is already registered – the "Nickname is already taken." message appears as a toast-message
-- If the field is left empty – the field is highlighted in red, the "This field is required" message is shown below the field
